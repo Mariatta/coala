@@ -181,7 +181,7 @@ You can find a quick demo of coala here:
 
 .. |asciicast| image:: https://asciinema.org/a/42968.png
    :target: https://asciinema.org/a/42968?autoplay=1
-   :width: 536px;
+   :width: 536px
 
 -----
 
